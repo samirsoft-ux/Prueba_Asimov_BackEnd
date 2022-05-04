@@ -1,6 +1,5 @@
 using System;
 using Gherkin.Ast;
-using TechTalk.SpecFlow;
 using Xunit;
 
 namespace Asimov.API.Tests
